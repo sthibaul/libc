@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [0.2.163](https://github.com/sthibaul/libc/compare/0.2.162...0.2.163) - 2024-11-11
+
+### Other
+
+- Use more standard types
+
 ## [0.2.162](https://github.com/rust-lang/libc/compare/0.2.161...0.2.162) - 2024-11-07
 
 ### Added
